@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "welcome",
 		version: "1.7",
-		author: "NTKhang",
+		author: "Enock",
 		category: "events"
 	},
 
@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "𝑷𝒂𝒓𝒇𝒂𝒊𝒕 ! 𝑴𝒆𝒓𝒄𝒊 𝒑𝒐𝒖𝒓 𝒍'𝑨𝒋𝒐𝒖𝒕 ! \n𝑺𝒚𝒎𝒃𝒐𝒍𝒆 𝒐𝒖 𝑷𝒓𝒆𝒇𝒊𝒙 : [%1\n].  𝑱𝒆 𝒗𝒊𝒆𝒏𝒔 𝒅𝒆𝒑𝒖𝒊𝒔 𝒍𝒆 𝑮𝑿𝑵𝑮             💀𝐁𝐋𝐀𝐂𝐊 𝐌𝐀𝐅𝐈𝐀            ⚜️𝐅𝐀𝐌𝐈𝐋𝐘🎴              𝑳𝑬 𝑩𝑶𝑺𝑺 𝑫𝑼 𝑮𝑿𝑵𝑮 :        [https://www.facebook.com/profile.php?id=100089690164634]         𝑬𝒕 𝒑𝒐𝒖𝒓 𝒗𝒐𝒊𝒓 𝒎𝒆𝒔 𝑪𝒐𝒎𝒑é𝒕𝒆𝒏𝒄𝒆𝒔 𝑻𝒂𝒑𝒆!: %1help",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `●▬▬▬▬๑۩۩๑▬▬▬▬▬● 𝒀𝒐  {userName}.\n𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒖𝒆 {multiple} 𝒅𝒂𝒏𝒔  : {boxName}\n𝑫é𝒔𝒐𝒓𝒎𝒂𝒊𝒔 𝒕𝒖 𝒆𝒔𝒕 𝒖𝒏(𝒆) 𝒅𝒆 𝒏𝒐𝒕𝒓𝒆 𝑨𝒑𝒑𝒓ê𝒕 𝒕𝒐𝒊 à 𝒅𝒆𝒔 𝒕𝒂𝒔 𝒅𝒆 𝒎𝒊𝒔𝒔𝒊𝒐𝒏𝒔  {session} ●▬▬▬▬๑۩۩๑▬▬▬▬▬●`
 		}
 	},
 
